@@ -1,5 +1,5 @@
 Diffusion Models: (to learn)
 
-This code is taken directly from https://www.youtube.com/watch?v=a4Yfz2FxXiY support this guy.
+Notes from the Hugging Face Diffusion Models Course https://github.com/huggingface/diffusion-models-class
 
-adapted to work on my local machine...
+MIT
